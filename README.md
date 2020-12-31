@@ -43,7 +43,7 @@ print("hello Markdown")
 
 
 
-![Alt text](https://blogfiles.pstatic.net/MjAyMDA1MjRfMjQz/MDAxNTkwMzE3MDIzMzI1.p-AR4Y4gT2iEfhjHz49FMJ2NmfRcNcB2XkV6A37bXkIg.C3ZuVwR-DLHijxQUl8Q8tVVjRaLeAgeIPDazQ2uogmMg.GIF.ecececbc/d11.gif)
+![Alt text](https://blogfiles.pstatic.net/MjAyMDA1MjRfMjQz/MDAxNTkwMzE3MDIzMzI1.p-AR4Y4gT2iEfhjHz49FMJ2NmfRcNcB2XkV6A37bXkIg.C3ZuVwR-DLHijxQUl8Q8tVVjRaLeAgeIPDazQ2uogmMg.GIF.ecececbc/d11.gif?type=w3)
 
 
 <img src="https://blogfiles.pstatic.net/MjAyMDA1MjRfMjQz/MDAxNTkwMzE3MDIzMzI1.p-AR4Y4gT2iEfhjHz49FMJ2NmfRcNcB2XkV6A37bXkIg.C3ZuVwR-DLHijxQUl8Q8tVVjRaLeAgeIPDazQ2uogmMg.GIF.ecececbc/d11.gif" width="450px" height="300px"></img><br/>
